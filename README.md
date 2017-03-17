@@ -1,0 +1,2 @@
+# TutorialScreenSample
+Parallax introduce page
